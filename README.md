@@ -1,5 +1,5 @@
 <p align="center">
- <img width="480" alt="so_long" src="https://github.com/tobeshota/so_long/assets/103044771/28c9ff3b-d673-4170-9ad3-2c6e08d2e8d5">
+ <img width="480" alt="so_long" src="https://github.com/tobeshota/so_long/assets/103044771/23753d83-9975-4739-84c0-d946a8f90dcc">
 </p>
 
 **So_long is one of the [42](https://42tokyo.jp/) assignment.**  
@@ -12,8 +12,8 @@ This is a 2D game. I use a graphical library: [MiniLibX](https://harm-smits.gith
 MiniLibX is a simple X-Window API in C. X-Window is a window system for UNIX.  
 
 <p align="center">
- <img width=360 src="https://github.com/tobeshota/so_long/assets/103044771/935d14b8-6fc7-4a57-acdf-74954be9987c">
- <img width=385 src="https://github.com/tobeshota/so_long/assets/103044771/04aade1c-493d-4925-8d91-ed0c0df533a9">
+ <img width=360 src="https://github.com/tobeshota/so_long/assets/103044771/e0b528c8-7570-4efe-a083-6b275adc6559">
+ <img width=385 src="https://github.com/tobeshota/so_long/assets/103044771/c66edb64-85f6-42b9-88ce-75d86d50348a">
 </p>
 
 # Usage
