@@ -14,6 +14,7 @@ MiniLibX is a simple X-Window API in C. X-Window is a window system for UNIX.
 <p align="center">
  <img width=360 src="https://github.com/tobeshota/so_long/assets/103044771/e0b528c8-7570-4efe-a083-6b275adc6559">
  <img width=385 src="https://github.com/tobeshota/so_long/assets/103044771/c66edb64-85f6-42b9-88ce-75d86d50348a">
+ <img width=745 src="https://github.com/tobeshota/so_long/assets/103044771/eb86eaba-a3bc-4b2c-a4da-f38df06094c4">
 </p>
 
 # Usage
