@@ -40,8 +40,8 @@ The maps are located in a `maps/` directory.
 ### Play
 You are the robot vacuum cleaner. You collect trash and take them to the trash can.  
 
-About the white robot vacuum cleaner, press W, A, S, and D keys (or cursor keys) to be moved.  
-About the black one, press I, J, K, and L keys to be moved.
+About the white robot vacuum cleaner, press W, A, S, and D keys (or cursor keys) to move.  
+About the black one, press I, J, K, and L keys to move.
 
 # Materials used
 * [DOT ILLUST「ゴミ01【ホワイト】」](https://dot-illust.net/gomi_01_white/)
