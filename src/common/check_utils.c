@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   check_utils.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tobeshouta <tobeshouta@student.42.fr>      +#+  +:+       +#+        */
+/*   By: toshota <toshota@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/09 15:16:33 by tobeshouta        #+#    #+#             */
-/*   Updated: 2023/09/13 15:41:42 by tobeshouta       ###   ########.fr       */
+/*   Updated: 2023/09/15 11:32:35 by toshota          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

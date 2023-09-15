@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   check_map_components_mandantory.c                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tobeshouta <tobeshouta@student.42.fr>      +#+  +:+       +#+        */
+/*   By: toshota <toshota@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/09 17:16:52 by toshota           #+#    #+#             */
-/*   Updated: 2023/09/13 12:11:08 by tobeshouta       ###   ########.fr       */
+/*   Updated: 2023/09/15 11:33:05 by toshota          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

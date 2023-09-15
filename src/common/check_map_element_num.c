@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   check_map_element_num.c                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tobeshouta <tobeshouta@student.42.fr>      +#+  +:+       +#+        */
+/*   By: toshota <toshota@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/09 15:14:00 by tobeshouta        #+#    #+#             */
-/*   Updated: 2023/09/10 15:42:50 by tobeshouta       ###   ########.fr       */
+/*   Updated: 2023/09/15 11:32:31 by toshota          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   swap_player_key_code.c                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tobeshouta <tobeshouta@student.42.fr>      +#+  +:+       +#+        */
+/*   By: toshota <toshota@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/09 15:21:09 by tobeshouta        #+#    #+#             */
-/*   Updated: 2023/09/11 10:42:24 by tobeshouta       ###   ########.fr       */
+/*   Updated: 2023/09/15 11:32:57 by toshota          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

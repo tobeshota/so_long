@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   swap_rival_key_code.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tobeshouta <tobeshouta@student.42.fr>      +#+  +:+       +#+        */
+/*   By: toshota <toshota@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/09 15:22:22 by tobeshouta        #+#    #+#             */
-/*   Updated: 2023/09/11 12:12:44 by tobeshouta       ###   ########.fr       */
+/*   Updated: 2023/09/15 11:32:58 by toshota          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
