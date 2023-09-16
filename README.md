@@ -2,7 +2,7 @@
  <img width="480" alt="so_long" src="https://github.com/tobeshota/so_long/assets/103044771/23753d83-9975-4739-84c0-d946a8f90dcc">
 </p>
 
-**So_long is one of the [42](https://42tokyo.jp/) project.**  
+**So_long is one of the [42](https://42tokyo.jp/) projects.**  
 **You collect trash and take them to the trash can.**
 
 ---
