@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: toshota <toshota@student.42.fr>            +#+  +:+       +#+        */
+/*   By: toshota <toshota@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/11 15:45:02 by toshota           #+#    #+#             */
-/*   Updated: 2023/09/04 17:14:32 by toshota          ###   ########.fr       */
+/*   Updated: 2023/09/24 15:00:56 by toshota          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -61,7 +61,7 @@ char	*get_new_line(char **save, int fd)
 char	*get_next_line(int fd)
 {
 	static char	*save[OPEN_MAX];
-	char		*line;
+	char		*ret;
 	char		*tmp;
 
 	if (fd < 0 || fd > OPEN_MAX || BUFFER_SIZE <= 0)
@@ -70,7 +70,7 @@ char	*get_next_line(int fd)
 		return (NULL);
 	if (ft_strchr(save[fd], '\n') != NULL)
 	{
-		line = ft_substr(save[fd], 0, ft_strchr(save[fd], '\n') - save[fd] + 1);
+		ret = ft_substr(save[fd], 0, ft_strchr(save[fd], '\n') - save[fd] + 1);
 		tmp = save[fd];
 		save[fd] = ft_strdup(ft_strchr(tmp, '\n') + 1);
 		free(tmp);
@@ -78,11 +78,11 @@ char	*get_next_line(int fd)
 	else
 	{
 		if (*save[fd] == '\0')
-			line = NULL;
+			ret = NULL;
 		else
-			line = ft_strdup(save[fd]);
+			ret = ft_strdup(save[fd]);
 		free(save[fd]);
 		save[fd] = NULL;
 	}
-	return (line);
+	return (ret);
 }

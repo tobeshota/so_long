@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   proc_output_conversions.c                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: toshota <toshota@student.42.fr>            +#+  +:+       +#+        */
+/*   By: toshota <toshota@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/10 21:42:17 by tobeshota         #+#    #+#             */
-/*   Updated: 2023/06/11 12:46:02 by toshota          ###   ########.fr       */
+/*   Updated: 2023/09/24 15:00:06 by toshota          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

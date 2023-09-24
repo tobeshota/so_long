@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: toshota <toshota@student.42.fr>            +#+  +:+       +#+         #
+#    By: toshota <toshota@student.42tokyo.jp>       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/05/26 19:52:48 by toshota           #+#    #+#              #
-#    Updated: 2023/09/14 16:38:07 by toshota          ###   ########.fr        #
+#    Updated: 2023/09/24 14:58:11 by toshota          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -35,25 +35,25 @@ endif
 
 
 $(NAME):	$(OBJS)
-			@ make -C $(PRINTF)
-			@ cp $(PRINTF)libftprintf.a $@
-			@ $(AR) $@ $^
+	@ make -C $(PRINTF)
+	@ cp $(PRINTF)libftprintf.a $@
+	@ $(AR) $@ $^
 
 all:		$(NAME)
 
 bonus:
-			make WITH_BONUS=1
+	@ make WITH_BONUS=1
 
 .c.o:		$(OBJS)
-			@ $(CC) $(CFLAGS) -I $(INCS) -c $< -o $@
+	@ $(CC) $(CFLAGS) -I $(INCS) -c $< -o $@
 
 clean:
-			@ make clean -C $(PRINTF)
-			@ $(RM) $(OBJS) $(B_SRCS:.c=.o)
+	@ make clean -C $(PRINTF)
+	@ $(RM) $(OBJS) $(B_SRCS:.c=.o)
 
 fclean:		clean
-			@ make fclean -C $(PRINTF)
-			@ $(RM) $(NAME)
+	@ make fclean -C $(PRINTF)
+	@ $(RM) $(NAME)
 
 re:			fclean all
 

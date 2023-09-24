@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   reassign_flags_precision.c                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: toshota <toshota@student.42.fr>            +#+  +:+       +#+        */
+/*   By: toshota <toshota@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/10 21:10:42 by tobeshota         #+#    #+#             */
-/*   Updated: 2023/06/11 12:47:06 by toshota          ###   ########.fr       */
+/*   Updated: 2023/09/24 15:00:17 by toshota          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

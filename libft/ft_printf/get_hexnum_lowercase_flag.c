@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_hexnum_lowercase_flag.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: toshota <toshota@student.42.fr>            +#+  +:+       +#+        */
+/*   By: toshota <toshota@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/11 10:46:48 by tobeshota         #+#    #+#             */
-/*   Updated: 2023/06/11 12:44:50 by toshota          ###   ########.fr       */
+/*   Updated: 2023/09/24 14:59:46 by toshota          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
