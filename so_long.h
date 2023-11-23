@@ -6,7 +6,7 @@
 /*   By: toshota <toshota@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/10 15:35:20 by tobeshouta        #+#    #+#             */
-/*   Updated: 2023/09/15 11:32:17 by toshota          ###   ########.fr       */
+/*   Updated: 2023/11/23 17:38:34 by toshota          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -126,7 +126,7 @@ void		check_can_rival_finish(t_data *data);
 void		check_map_components(t_data *data);
 void		check_map_components_bonus(t_data *data);
 void		check_map_components_mandantory(t_data *data);
-void		check_argc(int argc, char *file_path);
+void		check_arg(int argc, char **argv);
 void		check_file_path(int fd);
 void		put_error_msg(char *error_msg);
 void		mlx_all_xpm_file_to_image(t_data *data);

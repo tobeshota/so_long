@@ -6,7 +6,7 @@
 /*   By: toshota <toshota@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/09 15:16:33 by tobeshouta        #+#    #+#             */
-/*   Updated: 2023/09/15 11:32:35 by toshota          ###   ########.fr       */
+/*   Updated: 2023/11/23 17:38:35 by toshota          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,17 +18,17 @@ static int	is_file_path_end_ber(char *file_path, int i)
 			- 2] == 'e' && file_path[i - 3] == 'b' && file_path[i - 4] == '.');
 }
 
-void	check_argc(int argc, char *file_path)
+void	check_arg(int argc, char **argv)
 {
 	int	i;
 
-	i = ft_strlen(file_path);
 	if (argc != 2)
 	{
 		put_error_msg("Invalid argument");
 		exit(0);
 	}
-	if (is_file_path_end_ber(file_path, i) == FALSE)
+	i = ft_strlen(argv[1]);
+	if (is_file_path_end_ber(argv[1], i) == FALSE)
 	{
 		put_error_msg("The file extension must be .ber");
 		exit(0);
