@@ -13,6 +13,7 @@
  <img width=385 src="https://github.com/tobeshota/so_long/assets/103044771/c66edb64-85f6-42b9-88ce-75d86d50348a">
  <img width=746 src="https://github.com/tobeshota/so_long/assets/103044771/eb86eaba-a3bc-4b2c-a4da-f38df06094c4">
 </p>
+
 This is a 2D game. I use a graphical library: [MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx).  
 MiniLibX is a simple X-Window API in C. X-Window is a window system for UNIX.  
 
